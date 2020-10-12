@@ -1,8 +1,8 @@
 # FAWMF
 
 This is our raw source code for the paper: <br>
-Chen, Jiawei, Can Wang, Sheng Zhou, Qihao Shi, Jingbang Chen, Yan Feng, and Chun Chen. "Fast Adaptively Weighted Matrix Factorization for Recommendation with Implicit Feedback." In AAAI, pp. 3470-3477. 2020.   <br><br><br>
-I will share more friendly version (maybe pytorch version) later. 
+Chen, Jiawei, Can Wang, Sheng Zhou, Qihao Shi, Jingbang Chen, Yan Feng, and Chun Chen. "Fast Adaptively Weighted Matrix Factorization for Recommendation with Implicit Feedback." In AAAI, pp. 3470-3477. 2020.   <br><br>
+We will share more friendly version (maybe pytorch version) later. 
 
 # Example to run the code.
 Here we implement FAWMF in MATLAB. you can run the code for the example data in matlab environment with:
